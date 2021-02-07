@@ -24,7 +24,5 @@ while is_on:
             if moneymachine.make_payment(drink_cost):
                 coffeemaker.make_coffee(drink)
 
-            else:
-                print("Sorry thats not enough money ! Money refunded.")
         else:
             print("Not enough resources!")
