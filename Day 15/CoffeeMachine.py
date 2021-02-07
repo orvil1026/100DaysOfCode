@@ -42,7 +42,6 @@ def choice(user_choice):
             else:
                 print("Not sufficient coins!")
 
-
         else:
             print("Not enough resources.")
     elif user_choice == 'report':
@@ -70,7 +69,7 @@ def sufficient_resources(coffee):
 
 
 def insert_coins():
-    coins=int(input("Enter the coins:"))
+    coins = int(input("Enter the coins:"))
     return coins
 
 
@@ -81,8 +80,8 @@ def sufficient_coins(coffee, coins):
         return False
 
 
-def transaction(coins,coffee):
-    if sufficient_coins(coffee,coins):
+def transaction(coins, coffee):
+    if sufficient_coins(coffee, coins):
         resources["money"] += MENU[coffee]["cost"]
         change = coins-MENU[coffee]["cost"]
         print(f"Here is {change} in change!")
