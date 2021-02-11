@@ -25,16 +25,16 @@ colours = ['green yellow', 'firebrick', 'medium slate blue', 'deep sky blue',
            'medium spring green', 'powder blue', 'dark red', 'pale violet red', 'purple',
            'orange', 'yellow', 'teal', 'blue', 'deep pink']
 jim.speed('fastest')
-jim.width(2)
+jim.width(8)
 
 # Triangle, square, pentagon, hexagon, heptagon, octagon, nonagon, decagon
-# for i in range(3, 11):
-#     jim.pencolor(random.choice(colours))
-#     sides = i
-#     angle = 360 / sides
-#     for side in range(sides):
-#         jim.forward(100)
-#         jim.right(angle)
+for i in range(3, 11):
+    jim.pencolor(random.choice(colours))
+    sides = i
+    angle = 360 / sides
+    for side in range(sides):
+        jim.forward(100)
+        jim.right(angle)
 
 
 def random_color():
@@ -50,14 +50,14 @@ def random_color():
 #     jim.pencolor(random_color())
 #     jim.forward(30)
 #     jim.setheading(random.choice(direction))
-#
+
 
 
 # Spirograph
-for i in range(36):
-    jim.pencolor(random_color())
-    jim.circle(100)
-    jim.left(10)
+# for i in range(36):
+#     jim.pencolor(random_color())
+#     jim.circle(100)
+#     jim.left(10)
 
 
 screen = Screen()
