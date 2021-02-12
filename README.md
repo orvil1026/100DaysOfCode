@@ -14,7 +14,7 @@
     - [Random Walk,Spirograph using Turtle](https://github.com/orvil1026/100DaysOfCode/blob/main/Day%2018/Day18-start/main.py)
     - [Etch-A-Sketch App](https://github.com/orvil1026/100DaysOfCode/tree/main/Day%2019/etch-a-sketch-start)
     - [Turtle race](https://github.com/orvil1026/100DaysOfCode/tree/main/Day%2019/turtle-race-start)
-    - [Snake Game](https://github.com/orvil1026/100DaysOfCode/tree/main/Day%2020/snake_game)
+    - [Snake Game](https://github.com/orvil1026/100DaysOfCode/tree/main/Day%2020%20%26%2021/snake_game)
 - []()
 
 
