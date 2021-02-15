@@ -11,7 +11,7 @@ class CarManager:
 
     def __init__(self):
         self.cars = []
-        self.speed = 0.1
+        self.car_speed = MOVE_INCREMENT
 
     def create_car(self):
         time.sleep(0.1)
@@ -25,9 +25,9 @@ class CarManager:
         self.cars.append(new_car)
 
     def move(self):
-        time.sleep(self.speed)
+
         for cars in self.cars:
-            cars.forward(MOVE_INCREMENT)
+            cars.forward(self.car_speed)
 
     def increase_speed(self):
-        self.speed *= 0.9
+        self.car_speed += 10

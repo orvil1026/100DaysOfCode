@@ -31,6 +31,7 @@ while game_is_on:
         if player.distance(car) < 20:
             player.reset_position()
             score.game_over()
+            game_is_on = False
 
     if player.has_won():
         player.reset_position()
