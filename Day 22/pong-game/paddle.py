@@ -3,11 +3,11 @@ from turtle import Turtle
 
 class Paddle(Turtle):
 
-    def __init__(self, coordinates):
+    def __init__(self, coordinates,color):
         super().__init__()
 
         self.shape("square")
-        self.color("white")
+        self.color(color)
         self.speed("fastest")
         self.penup()
         self.turtlesize(stretch_wid=1, stretch_len=5)
@@ -15,7 +15,7 @@ class Paddle(Turtle):
         self.setheading(90)
 
     def up(self):
-        self.forward(20)
+        self.forward(30)
 
     def down(self):
-        self.backward(20)
+        self.backward(30)
