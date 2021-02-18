@@ -22,6 +22,15 @@ while score < 51:
     input_answer = screen.textinput(title=f"Guess the state {score}/50 correct", prompt="Whats another states name?").title()
 
     if input_answer == 'Exit':
+        states_to_learn = [state for state in states_list if state not in guessed_states]
+
+        states_to_learn_data = {
+            "state": states_to_learn
+        }
+
+        data = pandas.DataFrame(states_to_learn_data)
+
+        data.to_csv("states_to_learn.csv")
         break
     if input_answer in states_list:
         guessed_state = data[data.state == input_answer]
@@ -33,18 +42,5 @@ while score < 51:
         writer.write(name)
         score += 1
 
-
-states_to_learn = []
-for state in states_list:
-    if state not in guessed_states:
-        states_to_learn.append(state)
-
-states_to_learn_data ={
-    "state":states_to_learn
-}
-
-data = pandas.DataFrame(states_to_learn_data)
-
-data.to_csv("states_to_learn.csv")
 
 print(states_to_learn)
