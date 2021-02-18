@@ -31,6 +31,7 @@ while score < 51:
         guessed_states.append(name)
         writer.goto(x, y)
         writer.write(name)
+        score += 1
 
 
 states_to_learn = []
