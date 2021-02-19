@@ -4,7 +4,7 @@ window = Tk()
 window.title("Haha GUI")
 window.minsize(width=600, height=600)
 
-label = Label(text="My label")
+label = Label(text="My label 1")
 label.pack()
 
 
