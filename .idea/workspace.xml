@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8432b74-c7ac-4414-b0f3-5c383cb20543" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 27/trial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 28/pomodoro-start/clouds14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 28/pomodoro-start/sound.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 27/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 27/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 27/India-States-Guessing-game/states_to_learn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Day 27/India-States-Guessing-game/states_to_learn.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,28 +18,36 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 27/trial.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="161">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 27/playground.py">
+        <entry file="file://$PROJECT_DIR$/Day 27/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="276">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 27/main.py">
+        <entry file="file://$PROJECT_DIR$/Day 28/pomodoro-start/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="276">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 28/pomodoro-start/tomato.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -101,6 +110,7 @@
         <option value="$PROJECT_DIR$/Day 27/India-States-Guessing-game/main.py" />
         <option value="$PROJECT_DIR$/Day 27/trial.py" />
         <option value="$PROJECT_DIR$/Day 27/main.py" />
+        <option value="$PROJECT_DIR$/Day 28/pomodoro-start/main.py" />
       </list>
     </option>
   </component>
@@ -125,18 +135,13 @@
             <path>
               <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 25" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 28" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 25" type="462c0819:PsiDirectoryNode" />
-              <item name="us-states-game-start" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 27" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 28" type="462c0819:PsiDirectoryNode" />
+              <item name="pomodoro-start" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -146,22 +151,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day 27/India-States-Guessing-game" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day 28/pomodoro-start" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 27\India-States-Guessing-game" />
-      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 25\squirrel analysis" />
-      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 25" />
-      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 18\hirst-painting" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 28" />
       <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 26" />
       <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 25\us-states-game-start" />
       <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 25" />
       <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 24" />
-      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 23" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 28\pomodoro-start" />
+      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 27\India-States-Guessing-game" />
+      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 25\squirrel analysis" />
+      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 25" />
+      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 18\hirst-painting" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -176,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.main (3)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,6 +225,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="100daysofcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 28/pomodoro-start" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 28/pomodoro-start/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,7 +267,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="playground" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,11 +275,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 27" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 27/Mile to km Converter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 27/playground.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 27/Mile to km Converter/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,34 +309,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="trial" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="100daysofcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 27/India-States-Guessing-game" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 27/India-States-Guessing-game/trial.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.trial (1)" />
-        <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.trial" />
-        <item itemvalue="Python.playground" />
       </list>
     </recent_temporary>
   </component>
@@ -344,45 +350,21 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29307806" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20913108" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39911634" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49933687" weight="0.3298969" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.94403535" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33873343" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33578792" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006631" side_tool="true" weight="0.3298969" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.9263623" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.055964652" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day 20 &amp; 21/snake_game/scoreboard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 20 &amp; 21/snake_game/snake.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 20 &amp; 21/snake_game/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 20 &amp; 21/snake_game/data.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -549,25 +531,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 27/India-States-Guessing-game/india.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 27/India-States-Guessing-game/india.gif" />
     <entry file="file://$PROJECT_DIR$/Day 27/India-States-Guessing-game/map.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 27/India-States-Guessing-game/states_to_learn.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-197" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 27/India-States-Guessing-game/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 26/day-26-3-exercise/file1.txt">
@@ -600,21 +570,51 @@
     <entry file="file://$PROJECT_DIR$/Day 27/playground.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 27/trial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 27/main.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 27/Mile to km Converter/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 27/India-States-Guessing-game/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-258">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 27/trial.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 28/pomodoro-start/tomato.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 28/pomodoro-start/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
