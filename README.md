@@ -18,5 +18,7 @@
     - [Pong Game](https://github.com/orvil1026/100DaysOfCode/tree/main/Day%2022/pong-game)
     - [Turtle Crossing Game](https://github.com/orvil1026/100DaysOfCode/tree/main/Day%2023/turtle-crossing-start)
     - [US States Guessing game](https://github.com/orvil1026/100DaysOfCode/tree/main/Day%2025/us-states-game-start)
+    - [India States Guessing game](https://github.com/orvil1026/100DaysOfCode/tree/main/Day%2027/India-States-Guessing-game)
+    - [Pomodoro App](https://github.com/orvil1026/100DaysOfCode/tree/main/Day%2028/pomodoro-start)
 
 
