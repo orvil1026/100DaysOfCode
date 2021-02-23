@@ -8,6 +8,7 @@ LIGHTBLUE = '#a7c5eb'
 BLUE = "#98ded9"
 ORANGE = '#eb5e0b'
 
+
 def search():
     website_entered = website_entry.get().lower()
     try:
@@ -24,7 +25,9 @@ def search():
         else:
             messagebox.showerror(title="Error", message='No website Found!')
 
+
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
+
 
 letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v'
             , 'w', 'x', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R',
@@ -69,7 +72,7 @@ def save_data():
     email = email_entry.get().lower()
     password = password_entry.get().lower()
     data = {
-        website:{
+        website: {
             'email': email,
             'password': password
         }
