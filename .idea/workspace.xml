@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8432b74-c7ac-4414-b0f3-5c383cb20543" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 32/Motivation-Quote-Sender/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 33/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 32/Birthday Wisher (Day 32) start/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 32/Birthday Wisher (Day 32) start/quotes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 32/Motivation-Quote-Sender/quotes.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +16,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 32/birthday-wisher/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+            <state relative-caret-position="506">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 33/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 33/kanye-quotes-start/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 31/Flash-Card-App/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-46">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,19 +89,7 @@
         <entry file="file://$PROJECT_DIR$/Day 32/birthday-wisher/birthdays.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
-              <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 32/Motivation-Quote-Sender/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -87,9 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day 19/Day-19-start/main.py" />
-        <option value="$PROJECT_DIR$/Day 19/etch-a-sketch-start/main.py" />
-        <option value="$PROJECT_DIR$/Day 19/turtle-race-start/main.py" />
         <option value="$PROJECT_DIR$/Day 18/hirst-painting/main.py" />
         <option value="$PROJECT_DIR$/Day 18/Day18-start/main.py" />
         <option value="$PROJECT_DIR$/Day 20/snake_game/main.py" />
@@ -131,13 +150,16 @@
         <option value="$PROJECT_DIR$/Day 31/new" />
         <option value="$PROJECT_DIR$/Day 31/Flash-Card-App/main.py" />
         <option value="$PROJECT_DIR$/Day 32/Birthday Wisher (Day 32) start/main.py" />
-        <option value="$PROJECT_DIR$/Day 32/Motivation-Quote-Sender/main.py" />
         <option value="$PROJECT_DIR$/Day 32/birthday-wisher-extrahard-start/birthdays.csv" />
         <option value="$PROJECT_DIR$/Day 32/birthday-wisher-extrahard-start/letter_templates/letter_1.txt" />
         <option value="$PROJECT_DIR$/Day 32/birthday-wisher-extrahard-start/letter_templates/letter_2.txt" />
         <option value="$PROJECT_DIR$/Day 32/birthday-wisher-extrahard-start/letter_templates/letter_3.txt" />
         <option value="$PROJECT_DIR$/Day 32/birthday-wisher-extrahard-start/main.py" />
+        <option value="$PROJECT_DIR$/Day 32/birthday-wisher/birthdays.csv" />
+        <option value="$PROJECT_DIR$/Day 32/Motivation-Quote-Sender/main.py" />
         <option value="$PROJECT_DIR$/Day 32/birthday-wisher/main.py" />
+        <option value="$PROJECT_DIR$/Day 33/kanye-quotes-start/main.py" />
+        <option value="$PROJECT_DIR$/Day 33/main.py" />
       </list>
     </option>
   </component>
@@ -152,6 +174,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,13 +185,33 @@
             <path>
               <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 29" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 31" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 31" type="462c0819:PsiDirectoryNode" />
+              <item name="Flash-Card-App" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 33" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 33" type="462c0819:PsiDirectoryNode" />
+              <item name="kanye-quotes-start" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,19 +220,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 33" />
+      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 32" />
+      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 31\Flash-Card-App\data" />
+      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 31\Flash-Card-App\images" />
+      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 31\Flash-Card-App" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 31\Flash-Card-App" />
       <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 28\pomodoro-start" />
       <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 27\India-States-Guessing-game" />
       <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 25\squirrel analysis" />
       <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 25" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 32" />
-      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 31\Flash-Card-App\data" />
-      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 31\Flash-Card-App\images" />
-      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 31\Flash-Card-App" />
-      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 28" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -204,7 +247,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.main (5)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -289,7 +332,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,11 +340,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 31/Flash-Card-App" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 33" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 31/Flash-Card-App/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 33/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,7 +353,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="new" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (6)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -318,11 +361,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 31" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 33/kanye-quotes-start" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 31/new" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 33/kanye-quotes-start/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,11 +376,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (5)" />
+        <item itemvalue="Python.main (6)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.new" />
       </list>
     </recent_temporary>
   </component>
@@ -367,18 +410,18 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.234748" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.234748" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.055964652" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4521355" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39911634" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49933687" weight="0.3298969" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.94403535" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.41531664" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.41470587" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006631" side_tool="true" weight="0.3298969" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.055964652" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -406,20 +449,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day 25/squirrel analysis/new-squirrel.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 25/squirrel analysis/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="45" column="74" lean-forward="true" selection-start-line="45" selection-start-column="74" selection-end-line="45" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 25/weather_data.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -631,16 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 31/Flash-Card-App/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 32/Motivation-Quote-Sender/quotes.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -657,10 +676,20 @@
     <entry file="file://$PROJECT_DIR$/Day 31/Flash-Card-App/data/data-sheet.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day 32/Motivation-Quote-Sender/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day 32/birthday-wisher/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+        <state relative-caret-position="506">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
@@ -688,16 +717,36 @@
     <entry file="file://$PROJECT_DIR$/Day 32/birthday-wisher/birthdays.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 32/Motivation-Quote-Sender/main.py">
+    <entry file="file://$PROJECT_DIR$/Day 31/Flash-Card-App/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="-46">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 33/kanye-quotes-start/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 33/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
