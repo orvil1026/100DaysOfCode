@@ -20,5 +20,10 @@
     - [US States Guessing game](https://github.com/orvil1026/100DaysOfCode/tree/main/Day%2025/us-states-game-start)
     - [India States Guessing game](https://github.com/orvil1026/100DaysOfCode/tree/main/Day%2027/India-States-Guessing-game)
     - [Pomodoro App](https://github.com/orvil1026/100DaysOfCode/tree/main/Day%2028/pomodoro-start)
-
-
+    - [Password Manager](https://github.com/orvil1026/100DaysOfCode/tree/main/Day%2029/password-manager-start)
+    - [Flash Card App](https://github.com/orvil1026/100DaysOfCode/tree/main/Day%2031/Flash-Card-App)
+- Intermediate +
+    - [Motivation Quote Sender](https://github.com/orvil1026/100DaysOfCode/tree/main/Day%2032/Motivation-Quote-Sender)
+    - [Automated Birthday wisher](https://github.com/orvil1026/100DaysOfCode/tree/main/Day%2032/birthday-wisher)
+    - [Kanye Quotes Generator](https://github.com/orvil1026/100DaysOfCode/tree/main/Day%2033/kanye-quotes-start)
+    - [ISS Overhead Notifier](https://github.com/orvil1026/100DaysOfCode/tree/main/Day%2033/issoverhead-start)
