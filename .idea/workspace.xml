@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8432b74-c7ac-4414-b0f3-5c383cb20543" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 35/rain_alert/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 35/rain_alert/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 35/rain_alert/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/100daysofcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100daysofcode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 34/quizzler-app-start/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 34/quizzler-app-start/quiz_brain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 34/quizzler-app-start/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 34/quizzler-app-start/ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 35/rain_alert/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 35/rain_alert/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 34/quizzler-app-start/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+            <state relative-caret-position="230">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -39,11 +40,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 35/rain_alert/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="138">
+              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 35/rain_alert/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 35/rain_alert/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -86,8 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day 22/pong-game/ball.py" />
-        <option value="$PROJECT_DIR$/Day 22/pong-game/scoreboard.py" />
         <option value="$PROJECT_DIR$/Day 23/turtle-crossing-start/player.py" />
         <option value="$PROJECT_DIR$/Day 23/turtle-crossing-start/scoreboard.py" />
         <option value="$PROJECT_DIR$/Day 23/turtle-crossing-start/main.py" />
@@ -136,7 +156,9 @@
         <option value="$PROJECT_DIR$/Day 34/quizzler-app-start/data.py" />
         <option value="$PROJECT_DIR$/Day 34/quizzler-app-start/quiz_brain.py" />
         <option value="$PROJECT_DIR$/Day 34/quizzler-app-start/ui.py" />
+        <option value="$PROJECT_DIR$/Day 35/rain_alert/.env" />
         <option value="$PROJECT_DIR$/Day 35/rain_alert/main.py" />
+        <option value="$PROJECT_DIR$/Day 35/rain_alert/.gitignore" />
       </list>
     </option>
   </component>
@@ -218,7 +240,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Day 31/Flash-Card-App" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -409,19 +431,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1949602" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1949602" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2916053" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.055964652" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39911634" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49933687" weight="0.3298969" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.94403535" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.055964652" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.055964652" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006631" side_tool="true" weight="0.3298969" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.055964652" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -449,10 +472,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day 26/day-26-3-exercise/file2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 27/India-States-Guessing-game/india.gif" />
     <entry file="file://$PROJECT_DIR$/Day 27/India-States-Guessing-game/map.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -699,6 +718,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day 33/kanye-quotes-start/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day 34/quizzler-app-start/ui.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -706,6 +735,23 @@
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 34/quizzler-app-start/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 34/quizzler-app-start/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -719,37 +765,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 33/kanye-quotes-start/main.py">
+    <entry file="file://$PROJECT_DIR$/Day 35/rain_alert/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 34/quizzler-app-start/data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 34/quizzler-app-start/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 35/rain_alert/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="138">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 35/rain_alert/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
