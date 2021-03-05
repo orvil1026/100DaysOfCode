@@ -62,7 +62,7 @@ message = client.messages \
     .create(
          body=message,
          from_='+16235524092',
-         to='+919011189660'
+         to=config('PHONE_NUMBER')
      )
 
 print(message.status)
