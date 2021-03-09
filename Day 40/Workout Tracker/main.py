@@ -46,6 +46,7 @@ parameters = {
     }
 }
 
+# headers for sheety api
 headers = {
     "Authorization": config("AUTH_TOKEN"),
     "Content-Type": "application/json"
