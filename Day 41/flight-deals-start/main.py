@@ -1,9 +1,10 @@
 #This file will need to use the DataManager,FlightSearch, FlightData, NotificationManager classes to achieve the program requirements.
 from data_manager import DataManager
 from decouple import config
-from pprint import pprint
-import requests
+from notification_manager import NotificationManager
 from flight_data import FlightData
+from flight_search import FlightSearch
+import pprint
 
 tequilla_endpoint = 'https://tequila-api.kiwi.com/locations/query'
 
@@ -13,28 +14,46 @@ tequilla_headers = {
 
 
 data = DataManager()
-flight_data = FlightData()
 
-sheet_data = data.get_sheet_data()['prices']
+flight_search = FlightSearch()
+
+sheet_data = data.get_sheet_data('prices')['prices']
+
+# Get users
+
+print("Welcome to the Flight Club!\n We find the best deals and email you .")
+first_name = input("Enter your first name:")
+last_name = input("Enter your last name:")
+email = input("Enter your email id:")
+
+# get email data
+email_data = data.get_sheet_data('users')['users']
+email_list = []
+for email in email_data:
+    email_list.append(email['email'])
+
+print(email_list)
+
+json = {
+    "user": {
+        "firstname": first_name,
+        "lastname": last_name,
+        "email": email,
+
+    }
+}
+data.post_sheet_data(json, 'users')
+
 
 for city in sheet_data:
 
-    flight_data.get_flight_data(city['iataCode'],city['city'])
+    iataCode = city['iataCode']
+    flight_data = flight_search.get_flight_data(fly_to=iataCode)
 
-    # parameters = {
-    #     'term': city['city']
-    # }
-    # response = requests.get(url=tequilla_endpoint, params=parameters, headers=tequilla_headers)
-    # iata_code = response.json()['locations'][0]['code']
-    # data_json = {
-    #     "price": {
-    #         "city": city['city'],
-    #         "iataCode": iata_code,
-    #         "lowestPrice": city['lowestPrice']
-    #     }
-    # }
-    # response = requests.put(url=f'https://api.sheety.co/8c2d65f43c36f0cac0717042aac8f1ed/budgetFlightDeals/prices/{city["id"]}',json=data_json,headers=data.header)
-    # data.put_data_endpoint(json, city['id'])
+    # flight_data = FlightData(response)
+    if flight_data.price <= city['lowestPrice']:
+        notify = NotificationManager()
+        for email in email_list:
+            mail = notify.send_mail(email,flight_data)
 
-# pprint(sheet_data)
 
