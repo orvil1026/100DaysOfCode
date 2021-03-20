@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8432b74-c7ac-4414-b0f3-5c383cb20543" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 40/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/100daysofcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100daysofcode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 27/India-States-Guessing-game/states_to_learn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Day 27/India-States-Guessing-game/states_to_learn.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 29/password-manager-start/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/Day 29/password-manager-start/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 40/Workout Tracker/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 40/Workout Tracker/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 41/flight-deals-start/data_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 41/flight-deals-start/data_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 41/flight-deals-start/flight_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 41/flight-deals-start/flight_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 41/flight-deals-start/flight_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 41/flight-deals-start/flight_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 41/flight-deals-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 41/flight-deals-start/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 41/flight-deals-start/notification_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 41/flight-deals-start/notification_manager.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,31 +19,27 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/data_manager.py">
+        <entry file="file://$PROJECT_DIR$/Day 42/flight-deals-end/flight_data.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            <state relative-caret-position="247">
+              <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#135#171#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/.env">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/flight_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+            <state relative-caret-position="253">
+              <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -51,10 +48,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/flight_search.py">
+        <entry file="file://$USER_HOME$/Anaconda3/Lib/turtle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="17434">
+              <caret line="767" column="38" selection-start-line="767" selection-start-column="38" selection-end-line="767" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 42/flight-deals-end/notification_manager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-175">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/data_manager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="479">
+              <caret line="29" column="27" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="27" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -62,18 +80,43 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/notification_manager.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/main.py">
+        <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/.env">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+            <state relative-caret-position="161">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 40/Workout Tracker/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 32/birthday-wisher/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
               <folding>
-                <element signature="e#135#171#0" expanded="true" />
+                <element signature="e#1#14#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,12 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day 26/main.py" />
-        <option value="$PROJECT_DIR$/Day 27/playground.py" />
-        <option value="$PROJECT_DIR$/Day 27/India-States-Guessing-game/trial.py" />
-        <option value="$PROJECT_DIR$/Day 27/India-States-Guessing-game/states.csv" />
-        <option value="$PROJECT_DIR$/Day 27/India-States-Guessing-game/main.py" />
-        <option value="$PROJECT_DIR$/Day 27/trial.py" />
         <option value="$PROJECT_DIR$/Day 27/main.py" />
         <option value="$PROJECT_DIR$/Day 28/pomodoro-start/main.py" />
         <option value="$PROJECT_DIR$/Day 30/new_file.txt" />
@@ -140,25 +177,31 @@
         <option value="$PROJECT_DIR$/Day 40/Workout Tracker/.env" />
         <option value="$PROJECT_DIR$/Day 40/Workout Tracker/main.py" />
         <option value="$PROJECT_DIR$/Day 40/test.py" />
-        <option value="$PROJECT_DIR$/Day 41/flight-deals-start/data_manager.py" />
-        <option value="$PROJECT_DIR$/Day 41/flight-deals-start/.env" />
-        <option value="$PROJECT_DIR$/Day 41/flight-deals-start/flight_search.py" />
-        <option value="$PROJECT_DIR$/Day 41/flight-deals-start/main.py" />
         <option value="$PROJECT_DIR$/Day 41/flight-deals-start/flight_data.py" />
+        <option value="$PROJECT_DIR$/Day 42/flight-deals-end/.env" />
+        <option value="$PROJECT_DIR$/Day 42/flight-deals-end/notification_manager.py" />
+        <option value="$PROJECT_DIR$/Day 42/flight-deals-end/data_manager.py" />
+        <option value="$PROJECT_DIR$/Day 42/flight-deals-end/main.py" />
+        <option value="$PROJECT_DIR$/Day 42/flight-deals-end/flight_search.py" />
+        <option value="$PROJECT_DIR$/Day 41/flight-deals-start/data_manager.py" />
+        <option value="$PROJECT_DIR$/Day 41/flight-deals-start/flight_search.py" />
+        <option value="$PROJECT_DIR$/Day 41/flight-deals-start/.env" />
+        <option value="$PROJECT_DIR$/Day 41/flight-deals-start/main.py" />
+        <option value="$PROJECT_DIR$/Day 41/flight-deals-start/notification_manager.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="950" />
-    <option name="y" value="-10" />
     <option name="width" value="980" />
-    <option name="height" value="1050" />
+    <option name="height" value="525" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,13 +212,115 @@
             <path>
               <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 40" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 18" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 20 &amp; 21" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 22" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 23" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 24" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 25" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 26" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 27" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 28" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 30" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 31" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 32" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 32" type="462c0819:PsiDirectoryNode" />
+              <item name="birthday-wisher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 32" type="462c0819:PsiDirectoryNode" />
+              <item name="Motivation-Quote-Sender" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 33" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 33" type="462c0819:PsiDirectoryNode" />
+              <item name="issoverhead-start" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 34" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 35" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 36" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 37-38" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 39" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
               <item name="Day 40" type="462c0819:PsiDirectoryNode" />
-              <item name="Workout Tracker" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
@@ -188,11 +333,15 @@
               <item name="Day 41" type="462c0819:PsiDirectoryNode" />
               <item name="flight-deals-start" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Day 42" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -209,11 +358,11 @@
       <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 25" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 42" />
       <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 41" />
       <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 36\Stock-Trading-News-Alert" />
       <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 34" />
       <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 33" />
-      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 32" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -229,27 +378,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.main (1)">
-    <configuration name="data_manager" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="100daysofcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 41/flight-deals-start" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 41/flight-deals-start/data_manager.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="flight_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -313,7 +441,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -321,11 +449,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 40/Workout Tracker" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 42/flight-deals-end" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 40/Workout Tracker/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 42/flight-deals-end/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -342,11 +470,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 33/kanye-quotes-start" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 20 &amp; 21/snake_game" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 33/kanye-quotes-start/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 20 &amp; 21/snake_game/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="turtle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="100daysofcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Anaconda3/Lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Anaconda3/Lib/turtle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -358,10 +507,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.flight_data" />
-        <item itemvalue="Python.data_manager" />
-        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.turtle" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.flight_data" />
       </list>
     </recent_temporary>
   </component>
@@ -396,27 +545,46 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16710876" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22944297" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.055964652" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4197349" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39911634" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49933687" weight="0.3298969" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.33431518" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.055964652" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.18409425" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006631" side_tool="true" weight="0.3298969" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.055964652" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.45655376" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.025198938" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.10456554" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39911634" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49933687" weight="0.3298969" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.33431518" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.18409425" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006631" side_tool="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.45655376" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -463,43 +631,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="update git ignore" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day 31/Flash-Card-App/images/card_back.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 30/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="67" column="46" selection-start-line="67" selection-start-column="46" selection-end-line="67" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 31/Flash-Card-App/images/wrong.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 31/Flash-Card-App/images/right.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 31/Flash-Card-App/images/card_front.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 31/new" />
-    <entry file="file://$PROJECT_DIR$/Day 31/Flash-Card-App/data/words_to_learn.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-861">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 33/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 33/issoverhead-start/config.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -558,9 +689,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 34/quizzler-app-start/data.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -643,13 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 40/Workout Tracker/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -736,13 +857,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 32/birthday-wisher/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 40/Workout Tracker/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
@@ -753,52 +867,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/notification_manager.py">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/.env">
+    <entry file="file://$PROJECT_DIR$/Day 42/flight-deals-end/.env">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 20 &amp; 21/snake_game/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 42/flight-deals-end/data_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 42/flight-deals-end/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 42/flight-deals-end/flight_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/flight_search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state relative-caret-position="598">
+          <caret line="30" column="25" selection-start-line="30" selection-end-line="31" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 42/flight-deals-end/flight_data.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/flight_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/turtle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17434">
+          <caret line="767" column="38" selection-start-line="767" selection-start-column="38" selection-end-line="767" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 32/birthday-wisher/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/data_manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        <state relative-caret-position="479">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="27" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day 40/Workout Tracker/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+        <state relative-caret-position="247">
+          <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
           <folding>
             <element signature="e#135#171#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/flight_data.py">
+    <entry file="file://$PROJECT_DIR$/Day 42/flight-deals-end/notification_manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        <state relative-caret-position="-175">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
           <folding>
-            <element signature="e#0#27#0" expanded="true" />
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/notification_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
