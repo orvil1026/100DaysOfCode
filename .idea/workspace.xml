@@ -2,8 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8432b74-c7ac-4414-b0f3-5c383cb20543" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 43/Web Development/HTML-Personal website/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/armstrong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/exp3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/exp3b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/largest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/occurence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/string_datatype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/student_cmpn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 44/wordcount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 65/100-top-movies/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 65/bs4-start/yc-scrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/Day 1/advanced_decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/Day 1/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/Name-Card/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/blog-site/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/blog-site/templates/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/blog-site/templates/guess.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/blog-site/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/bootstrap-blog-pages/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/bootstrap-blog-pages/templates/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/bootstrap-blog-pages/templates/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/bootstrap-blog-pages/templates/navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/higher-lower/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/html-forms/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/html-forms/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/my-personal-site/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/tindog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 29/password-manager-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 29/password-manager-start/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 43/Web Development/HTML-Personal website/circle-cropped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 43/Web Development/HTML-Personal website/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day 43/Web Development/HTML-Personal website/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 43/Web Development/HTML-Personal website/hobbies.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day 43/Web Development/HTML-Personal website/hobbies.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 43/Web Development/HTML-Personal website/image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 43/Web Development/HTML-Personal website/imagenew.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 43/Web Development/HTML-Personal website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day 43/Web Development/HTML-Personal website/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,111 +48,69 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/main.py">
+        <entry file="file://$PROJECT_DIR$/Flask/bootstrap-blog-pages/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1150">
-              <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+            <state relative-caret-position="276">
+              <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
               <folding>
-                <element signature="e#135#171#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/flight_data.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Anaconda3/Lib/turtle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17434">
-              <caret line="767" column="38" selection-start-line="767" selection-start-column="38" selection-end-line="767" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 42/flight-deals-end/notification_manager.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/data_manager.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="29" column="27" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/notification_manager.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#0#49#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 43/Web Development/HTML-Personal website/index.html">
+        <entry file="file://$PROJECT_DIR$/Flask/Starting+Files+-+flask-secrets/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/.env">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 40/Workout Tracker/.env">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 32/birthday-wisher/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+            <state relative-caret-position="276">
+              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
               <folding>
-                <element signature="e#1#14#0" expanded="true" />
+                <element signature="e#0#49#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flask/Starting+Files+-+flask-secrets/templates/success.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flask/Starting+Files+-+flask-secrets/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flask/Starting+Files+-+flask-secrets/templates/denied.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flask/Starting+Files+-+flask-secrets/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="10" column="74" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flask/Starting+Files+-+flask-secrets/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flask/Starting+Files+-+flask-secrets/poetry.lock">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -126,9 +118,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>images</find>
+      <find>assets</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>static/images</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -136,71 +138,70 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day 28/pomodoro-start/main.py" />
-        <option value="$PROJECT_DIR$/Day 30/new_file.txt" />
-        <option value="$PROJECT_DIR$/Day 30/main.py" />
-        <option value="$PROJECT_DIR$/Day 26/NATO-alphabet-start/NATO-alphabet-start/main.py" />
-        <option value="$PROJECT_DIR$/Day 29/password-manager-start/data.json" />
-        <option value="$PROJECT_DIR$/Day 29/password-manager-start/main.py" />
-        <option value="$PROJECT_DIR$/Day 31/new" />
-        <option value="$PROJECT_DIR$/Day 31/Flash-Card-App/main.py" />
-        <option value="$PROJECT_DIR$/Day 32/Birthday Wisher (Day 32) start/main.py" />
-        <option value="$PROJECT_DIR$/Day 32/birthday-wisher-extrahard-start/birthdays.csv" />
-        <option value="$PROJECT_DIR$/Day 32/birthday-wisher-extrahard-start/letter_templates/letter_1.txt" />
-        <option value="$PROJECT_DIR$/Day 32/birthday-wisher-extrahard-start/letter_templates/letter_2.txt" />
-        <option value="$PROJECT_DIR$/Day 32/birthday-wisher-extrahard-start/letter_templates/letter_3.txt" />
-        <option value="$PROJECT_DIR$/Day 32/birthday-wisher-extrahard-start/main.py" />
-        <option value="$PROJECT_DIR$/Day 32/birthday-wisher/birthdays.csv" />
-        <option value="$PROJECT_DIR$/Day 32/birthday-wisher/main.py" />
-        <option value="$PROJECT_DIR$/Day 33/kanye-quotes-start/main.py" />
-        <option value="$PROJECT_DIR$/Day 33/main.py" />
-        <option value="$PROJECT_DIR$/Day 32/Motivation-Quote-Sender/main.py" />
-        <option value="$PROJECT_DIR$/Day 33/issoverhead-start/main.py" />
-        <option value="$PROJECT_DIR$/Day 33/twitterbarcodegenerator.py" />
-        <option value="$PROJECT_DIR$/Day 34/quizzler-app-start/main.py" />
-        <option value="$PROJECT_DIR$/Day 34/quizzler-app-start/data.py" />
-        <option value="$PROJECT_DIR$/Day 34/quizzler-app-start/quiz_brain.py" />
-        <option value="$PROJECT_DIR$/Day 34/quizzler-app-start/ui.py" />
-        <option value="$PROJECT_DIR$/Day 35/rain_alert/.env" />
-        <option value="$PROJECT_DIR$/Day 35/rain_alert/main.py" />
-        <option value="$PROJECT_DIR$/Day 35/rain_alert/.gitignore" />
-        <option value="$PROJECT_DIR$/Day 36/.env" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Day 36/Stock-Trading-News-Alert/stock-data.py" />
-        <option value="$PROJECT_DIR$/Day 36/Stock-Trading-News-Alert/stockdata.py" />
-        <option value="$PROJECT_DIR$/Day 39/test.py" />
-        <option value="$PROJECT_DIR$/Day 39/Habit-Tracker/main.py" />
-        <option value="$PROJECT_DIR$/Day 36/Stock-Trading-News-Alert/.env" />
-        <option value="$PROJECT_DIR$/Day 36/Stock-Trading-News-Alert/main.py" />
-        <option value="$PROJECT_DIR$/Day 40/Workout Tracker/.env" />
-        <option value="$PROJECT_DIR$/Day 40/Workout Tracker/main.py" />
-        <option value="$PROJECT_DIR$/Day 40/test.py" />
-        <option value="$PROJECT_DIR$/Day 41/flight-deals-start/flight_data.py" />
-        <option value="$PROJECT_DIR$/Day 42/flight-deals-end/.env" />
-        <option value="$PROJECT_DIR$/Day 42/flight-deals-end/notification_manager.py" />
-        <option value="$PROJECT_DIR$/Day 42/flight-deals-end/data_manager.py" />
-        <option value="$PROJECT_DIR$/Day 42/flight-deals-end/main.py" />
-        <option value="$PROJECT_DIR$/Day 42/flight-deals-end/flight_search.py" />
-        <option value="$PROJECT_DIR$/Day 41/flight-deals-start/data_manager.py" />
-        <option value="$PROJECT_DIR$/Day 41/flight-deals-start/flight_search.py" />
-        <option value="$PROJECT_DIR$/Day 41/flight-deals-start/.env" />
         <option value="$PROJECT_DIR$/Day 41/flight-deals-start/main.py" />
         <option value="$PROJECT_DIR$/Day 41/flight-deals-start/notification_manager.py" />
         <option value="$PROJECT_DIR$/Day 43/Web Development/HTML-Personal website/index.html" />
+        <option value="$PROJECT_DIR$/Day 44/largest.py" />
+        <option value="$PROJECT_DIR$/Day 44/student_cmpn.py" />
+        <option value="$PROJECT_DIR$/Day 44/armstrong.py" />
+        <option value="$PROJECT_DIR$/Day 44/string_datatype.py" />
+        <option value="$PROJECT_DIR$/Day 44/exp3.py" />
+        <option value="$PROJECT_DIR$/Day 44/hello.txt" />
+        <option value="$PROJECT_DIR$/Day 44/file1.txt" />
+        <option value="$PROJECT_DIR$/Day 44/wordcount.py" />
+        <option value="$PROJECT_DIR$/Day 44/exp3b.py" />
+        <option value="$PROJECT_DIR$/Day 44/occurence.py" />
+        <option value="$PROJECT_DIR$/Day 65/bs4-start/main.py" />
+        <option value="$PROJECT_DIR$/Day 65/bs4-start/yc-scrapper.py" />
+        <option value="$PROJECT_DIR$/Day 65/100-top-movies/main.py" />
+        <option value="$PROJECT_DIR$/Day 29/password-manager-start/main.py" />
+        <option value="$PROJECT_DIR$/Flask/Day 1/hello.py" />
+        <option value="$PROJECT_DIR$/Flask/Day 1/advanced_decorator.py" />
+        <option value="$PROJECT_DIR$/Flask/Day 1/higher_lower.py" />
+        <option value="$PROJECT_DIR$/Flask/higher-lower/server.py" />
+        <option value="$PROJECT_DIR$/Flask/my-personal-site/templates/orvil.html" />
+        <option value="$PROJECT_DIR$/Flask/my-personal-site/server.py" />
+        <option value="$PROJECT_DIR$/Flask/my-personal-site/static/styles.css" />
+        <option value="$PROJECT_DIR$/Flask/my-personal-site/templates/index.html" />
+        <option value="$PROJECT_DIR$/Flask/Name-Card/server.py" />
+        <option value="$PROJECT_DIR$/Flask/Name-Card/templates/index.html" />
+        <option value="$PROJECT_DIR$/Flask/Name-Card/static/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/Flask/blog-site/templates/guess.html" />
+        <option value="$PROJECT_DIR$/Flask/blog-site/templates/blog.html" />
+        <option value="$PROJECT_DIR$/Flask/blog-site/server.py" />
+        <option value="$PROJECT_DIR$/Flask/blog-site/templates/index.html" />
+        <option value="$PROJECT_DIR$/Flask/blog-templating-start/post.py" />
+        <option value="$PROJECT_DIR$/Flask/blog-templating-start/templates/index.html" />
+        <option value="$PROJECT_DIR$/Flask/blog-templating-start/templates/post.html" />
+        <option value="$PROJECT_DIR$/Flask/blog-templating-start/main.py" />
+        <option value="$PROJECT_DIR$/bootstrap/tindog.html" />
+        <option value="$PROJECT_DIR$/Flask/bootstrap-blog-pages/templates/footer.html" />
+        <option value="$PROJECT_DIR$/Flask/bootstrap-blog-pages/templates/header.html" />
+        <option value="$PROJECT_DIR$/Flask/bootstrap-blog-pages/templates/about.html" />
+        <option value="$PROJECT_DIR$/Flask/bootstrap-blog-pages/templates/navigation.html" />
+        <option value="$PROJECT_DIR$/Flask/bootstrap-blog-pages/templates/index.html" />
+        <option value="$PROJECT_DIR$/Flask/bootstrap-blog-pages/templates/post.html" />
+        <option value="$PROJECT_DIR$/Flask/html-forms/index.html" />
+        <option value="$PROJECT_DIR$/Flask/html-forms/main.py" />
+        <option value="$PROJECT_DIR$/Flask/html-forms/templates/index.html" />
+        <option value="$PROJECT_DIR$/Flask/bootstrap-blog-pages/templates/contact.html" />
+        <option value="$PROJECT_DIR$/Flask/bootstrap-blog-pages/main.py" />
+        <option value="$PROJECT_DIR$/Flask/Starting+Files+-+flask-secrets/templates/login.html" />
+        <option value="$PROJECT_DIR$/Flask/Starting+Files+-+flask-secrets/templates/index.html" />
+        <option value="$PROJECT_DIR$/Flask/Starting+Files+-+flask-secrets/main.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
-    <option name="width" value="980" />
-    <option name="height" value="525" />
+    <option name="width" value="979" />
+    <option name="height" value="1030" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,175 +212,54 @@
             <path>
               <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 18" type="462c0819:PsiDirectoryNode" />
+              <item name="Flask" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 20 &amp; 21" type="462c0819:PsiDirectoryNode" />
+              <item name="Flask" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-blog-pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 22" type="462c0819:PsiDirectoryNode" />
+              <item name="Flask" type="462c0819:PsiDirectoryNode" />
+              <item name="Starting+Files+-+flask-secrets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 23" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 24" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 25" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 26" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 27" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 28" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 30" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 31" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 32" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 32" type="462c0819:PsiDirectoryNode" />
-              <item name="birthday-wisher" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 32" type="462c0819:PsiDirectoryNode" />
-              <item name="Motivation-Quote-Sender" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 33" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 33" type="462c0819:PsiDirectoryNode" />
-              <item name="issoverhead-start" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 34" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 35" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 36" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 37-38" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 39" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 40" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 41" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 41" type="462c0819:PsiDirectoryNode" />
-              <item name="flight-deals-start" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 42" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 43" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 43" type="462c0819:PsiDirectoryNode" />
-              <item name="Web Development" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysofcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysofcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day 43" type="462c0819:PsiDirectoryNode" />
-              <item name="Web Development" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML-Personal website" type="462c0819:PsiDirectoryNode" />
+              <item name="Flask" type="462c0819:PsiDirectoryNode" />
+              <item name="Starting+Files+-+flask-secrets" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="C:/1026/mini project-online polling system/mini_project" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Flask/Name-Card/static/images" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\1026\DEVELOPMENT\100daysofcode\Flask\Name-Card\static\images" />
+      <recent name="C:\1026\DEVELOPMENT\100daysofcode\Flask\my-personal-site\static" />
       <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 31\Flash-Card-App" />
       <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 28\pomodoro-start" />
       <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 27\India-States-Guessing-game" />
-      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 25\squirrel analysis" />
-      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 25" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 42" />
-      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 41" />
-      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 36\Stock-Trading-News-Alert" />
-      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 34" />
-      <recent name="C:\Users\Orvil\OneDrive\Documents\100daysofcode\Day 33" />
+      <recent name="C:\1026\DEVELOPMENT\100daysofcode\Flask\html-forms\templates" />
+      <recent name="C:\1026\DEVELOPMENT\100daysofcode\Flask\my-personal-site\static\images" />
+      <recent name="C:\1026\DEVELOPMENT\100daysofcode\Flask\my-personal-site\static\css" />
+      <recent name="C:\1026\DEVELOPMENT\100daysofcode\Flask\my-personal-site\static" />
+      <recent name="C:\1026\DEVELOPMENT\100daysofcode\Flask\my-personal-site\templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -394,28 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
-    <configuration name="flight_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="100daysofcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 41/flight-deals-start" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 41/flight-deals-start/flight_data.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.main (4)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -424,11 +283,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 41/flight-deals-start" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flask/bootstrap-blog-pages" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 41/flight-deals-start/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flask/bootstrap-blog-pages/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -458,6 +317,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="100daysofcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flask/html-forms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flask/html-forms/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -466,11 +346,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 42/flight-deals-end" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flask/Starting+Files+-+flask-secrets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 42/flight-deals-end/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flask/Starting+Files+-+flask-secrets/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -487,11 +367,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 20 &amp; 21/snake_game" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flask/blog-templating-start" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 20 &amp; 21/snake_game/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flask/blog-templating-start/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -500,7 +380,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="turtle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="server (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -508,11 +388,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Anaconda3/Lib" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flask/blog-site" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Anaconda3/Lib/turtle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flask/blog-site/server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -523,11 +403,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.turtle" />
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.flight_data" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.server (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -562,41 +442,42 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22944297" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18700266" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.055964652" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937685" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24925816" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39911634" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49933687" weight="0.3298969" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.33431518" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.055964652" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49933687" weight="0.32937685" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.33382788" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2833828" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006631" side_tool="true" weight="0.3298969" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.45655376" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.4554896" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.025198938" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17175066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.10456554" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937685" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35905045" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39911634" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49933687" weight="0.3298969" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.33431518" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.18409425" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.33382788" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2833828" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006631" side_tool="true" weight="0.3298969" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.45655376" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.4554896" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -646,367 +527,295 @@
     <MESSAGE value="update git ignore" />
     <option name="LAST_COMMIT_MESSAGE" value="update git ignore" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Flask/Day 1/hello.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day 32/birthday-wisher/letter_templates/letter_1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 32/birthday-wisher/letter_templates/letter_2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 32/birthday-wisher/letter_templates/letter_3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 33/twitterbarcodegenerator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 34/quizzler-app-start/images/false.png">
+    <entry file="file://$PROJECT_DIR$/Day 43/Web Development/HTML-Personal website/images/circle-cropped.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 34/quizzler-app-start/images/true.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/Flask/my-personal-site/templates/orvil.html" />
+    <entry file="file://$PROJECT_DIR$/Flask/Day 1/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 33/issoverhead-start/main.py">
+    <entry file="file://$PROJECT_DIR$/Flask/Day 1/advanced_decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/higher-lower/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 43/Web Development/HTML-Personal website/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="43" column="16" lean-forward="true" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 35/rain_alert/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/Day 35/rain_alert/.env" />
-    <entry file="file://$PROJECT_DIR$/Day 34/quizzler-app-start/ui.py">
+    <entry file="file://$PROJECT_DIR$/Day 43/Web Development/HTML-Personal website/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="69">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 34/quizzler-app-start/data.py">
+    <entry file="file://$PROJECT_DIR$/Flask/my-personal-site/static/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/my-personal-site/static/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/my-personal-site/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 34/quizzler-app-start/question_model.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 34/quizzler-app-start/quiz_brain.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 36/Stock-Trading-News-Alert/stockdata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 36/Stock-Trading-News-Alert/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 36/Stock-Trading-News-Alert/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1403">
-          <caret line="64" column="32" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
-          <folding>
-            <element signature="e#16#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 34/quizzler-app-start/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 31/Flash-Card-App/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1955">
-          <caret line="89" selection-start-line="89" selection-end-line="89" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 39/Habit-Tracker/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="851">
-          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 31/Flash-Card-App/data/data-sheet.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 39/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 40/test.py">
+    <entry file="file://$PROJECT_DIR$/Flask/my-personal-site/server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 27/India-States-Guessing-game/main.py">
+    <entry file="file://$PROJECT_DIR$/Flask/Name-Card/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-995">
-          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        <state relative-caret-position="230">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/Name-Card/static/images/orvil.png" />
+    <entry file="file://$PROJECT_DIR$/Flask/Name-Card/static/images/orvil.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/Name-Card/static/images/orvil (1).jpg" />
+    <entry file="file://$PROJECT_DIR$/Flask/Name-Card/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="53" column="51" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#2732#2738#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 32/Motivation-Quote-Sender/main.py">
+    <entry file="file://$PROJECT_DIR$/Flask/Name-Card/static/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="324">
+          <caret line="90" column="159" selection-start-line="90" selection-start-column="159" selection-end-line="90" selection-end-column="159" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 33/kanye-quotes-start/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Flask/Name-Card/static/images/avatar.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 35/rain_alert/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 32/Motivation-Quote-Sender/quotes.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 27/India-States-Guessing-game/states_to_learn.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 27/India-States-Guessing-game/states.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 28/pomodoro-start/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="68" column="26" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 29/password-manager-start/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="113" column="45" selection-start-line="113" selection-start-column="45" selection-end-line="113" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 32/birthday-wisher/birthdays.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 40/Workout Tracker/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="43" column="28" lean-forward="true" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 42/flight-deals-end/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 20 &amp; 21/snake_game/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 42/flight-deals-end/data_manager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Flask/my-personal-site/static/images/angela.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 42/flight-deals-end/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        <state>
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 42/flight-deals-end/flight_search.py">
+    <entry file="file://$PROJECT_DIR$/Day 42/flight-deals-end/data_manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        <state relative-caret-position="-69">
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/flight_search.py">
+    <entry file="file://$PROJECT_DIR$/Flask/blog-site/templates/guess.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="30" column="25" selection-start-line="30" selection-end-line="31" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="207">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 42/flight-deals-end/flight_data.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/main.py">
+    <entry file="file://$PROJECT_DIR$/Flask/blog-site/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+        <state relative-caret-position="690">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
           <folding>
-            <element signature="e#135#171#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/flight_data.py">
+    <entry file="file://$PROJECT_DIR$/Flask/blog-site/templates/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
+        <state relative-caret-position="368">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 40/Workout Tracker/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/turtle.py">
+    <entry file="file://$PROJECT_DIR$/Flask/blog-site/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17434">
-          <caret line="767" column="38" selection-start-line="767" selection-start-column="38" selection-end-line="767" selection-end-column="38" />
+        <state relative-caret-position="345">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 42/flight-deals-end/notification_manager.py">
+    <entry file="file://$PROJECT_DIR$/bootstrap/tindog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="209">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/data_manager.py">
+    <entry file="file://$PROJECT_DIR$/bootstrap/TinDog Start Here/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="29" column="27" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/.env">
+    <entry file="file://$PROJECT_DIR$/Flask/blog-templating-start/post.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 40/Workout Tracker/.env">
+    <entry file="file://$PROJECT_DIR$/Flask/blog-templating-start/templates/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/bootstrap-blog-pages/templates/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1219">
+          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/bootstrap-blog-pages/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/bootstrap-blog-pages/templates/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/bootstrap-blog-pages/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
-          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/bootstrap-blog-pages/templates/navigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/blog-templating-start/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/bootstrap-blog-pages/templates/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/blog-templating-start/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/html-forms/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/html-forms/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/bootstrap-blog-pages/templates/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 32/birthday-wisher/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
+        <state relative-caret-position="23">
           <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
           <folding>
             <element signature="e#1#14#0" expanded="true" />
@@ -1014,20 +823,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 41/flight-deals-start/notification_manager.py">
+    <entry file="file://$PROJECT_DIR$/Flask/Starting+Files+-+flask-secrets/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/Starting+Files+-+flask-secrets/poetry.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/bootstrap-blog-pages/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+        <state relative-caret-position="276">
+          <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#49#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 43/Web Development/HTML-Personal website/index.html">
+    <entry file="file://$PROJECT_DIR$/Flask/Starting+Files+-+flask-secrets/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        <state relative-caret-position="212">
+          <caret line="10" column="74" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/Starting+Files+-+flask-secrets/templates/denied.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/Starting+Files+-+flask-secrets/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/Starting+Files+-+flask-secrets/templates/success.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/Starting+Files+-+flask-secrets/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -98,7 +98,6 @@ def save_data():
                 with open('data.json', mode='w') as file:
                     json.dump(file_data, file, indent=4)
 
-
             password_entry.delete(0, END)
             website_entry.delete(0, END)
 
